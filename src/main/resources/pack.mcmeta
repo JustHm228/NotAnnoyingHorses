@@ -1,6 +1,6 @@
 {
     "pack": {
-        "description": "Allows you to nerf annoying horses' AI",
+        "description": "Allows you to nerf horses' annoying AI",
         "pack_format": 7,
         "supported_formats": {
             "min_inclusive": 7,
