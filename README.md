@@ -10,8 +10,9 @@
 
 **NotAnnoyingHorses** is a Minecraft data pack/mod which allows you to nerf annoying AI of your horse with a nametag.
 
-Have you ever been annoyed that your horse immediately leaves you as soon as you get off?
-With this data pack/mod, this won't happen again!
+> _Have you ever been annoyed that your horse immediately leaves you as soon as you get off?_
+> 
+> _With this data pack/mod, this won't happen again!_
 
 ## 🚀 Quick Start
 
