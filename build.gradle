@@ -26,7 +26,7 @@ plugins {
 	id 'java'
 }
 
-group = 'com.github.justhm228'
+group = getProperty('group')
 version = getProperty('version')
 
 repositories {
