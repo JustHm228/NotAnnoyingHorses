@@ -48,7 +48,7 @@
 >
 > Please ensure that you have the following software installed:
 > - [Minecraft](<https://minecraft.net/>) \($\ge$ 1.13\)
-> - Mod loader ([Fabric](<https://fabricmc.net>), [Forge](<https://files.minecraftforge.net>),
+> - Mod loader ([Fabric](<https://fabricmc.net>), [Forge](<https://files.minecraftforge.net>), 
 >   [Quilt](<https://quiltmc.net>), [NeoForge](<https://neoforged.net>))
 >
 > To install the mod to your client/server, you should:
